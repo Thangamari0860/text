@@ -1,0 +1,76 @@
+.two{
+text-align:start;
+}
+.three{
+ text-align:end;
+}
+ 
+.one{
+ text-align:center;
+}
+
+.four
+{
+  text-align:justify;
+}
+.five{
+  text-decoration:underline;
+  }
+.six{
+   text-decoration:line-through;
+ } 
+ 
+ .green{
+	 text-align:underline dotted;
+ }
+.gold{
+	text-decoration:underline dotted red;
+ } 
+ 
+ .stone{
+	 text-decoration:underline overline;
+	 
+ }
+ .we{
+	 text-capitalize;
+ }
+.hr{
+	 text-transform:lowercase;
+ }
+ 
+ .gt{
+	 text-transform:full-wiodth;s
+	 
+ }
+ .tms{
+	 word-spacing:10px;
+ }
+ .m{
+ "Times New Roman", Times, serif;
+ }
+ h2{
+	 background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,204,70,1) 100%);
+  text-align:center;
+  color:gold;
+  animation:mymove 2s infinite;
+ }
+ 
+@keyframes
+ mymove
+{
+50%{color:red;}	
+}
+
+a{
+	padding-left=30px;
+	border:solid green;
+	background-image:
+linear-gradient(#33FFFF,#F80081,#46605C);
+font-size:20px;
+}
+
+nav
+{
+	padding:10px;
+}
